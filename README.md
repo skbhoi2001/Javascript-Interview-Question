@@ -1,4 +1,4 @@
-# JavaScript Interview Questions & Answers
+# JavaScript Questions & Answers
 
 1. ### What are the possible ways to create objects in JavaScript
 
